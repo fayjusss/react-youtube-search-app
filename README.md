@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# Youtube Search App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A project to track what I've learned so far in React.
+Functionality: Search and Play youtube videos using youtube data api.
 
-### Getting Started
+### Covers following topic
 
-There are two methods for getting started with this repo.
+* JSX
+* Component
+* Class Based Component vs. Functional Component
+* Props
+* State
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+##### Tutorial
+Modern React with Redux (Udemy Course)
